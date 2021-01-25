@@ -1,0 +1,93 @@
+package marcks.selemium.webdriver.basic;
+
+import org.openqa.selenium.By;
+//import org.openqa.selenium.Keys;
+
+//import java.util.concurrent.TimeUnit;
+
+//import org.openqa.selenium.By;
+//import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+//import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.Select;
+//import org.openqa.selenium.interactions.Actions;
+
+public class launchBrowser {
+	
+	
+	public static WebDriver driver = null;
+
+	public static void main(String[] args)  
+	
+	{
+	   
+		//Set the Browser location 
+		System.setProperty("webdriver.gecko.driver", "C:\\Marcks\\Selenium_java\\Driver\\geckodriver.exe");
+		
+		WebDriver driver=new FirefoxDriver ();
+	    
+		//BrowseFacebook
+	    driver.get("http://www.facebook.com");
+	    
+	    //Maximize the Browser
+	    driver.manage().window().maximize();
+	    
+	    //EnterName 
+	    
+	    driver.findElement(By.id("u_0_m")).sendKeys("FbName");
+	   
+	    //Enter Surname
+	    driver.findElement(By.id("u_0_o")).sendKeys("FbSurname");
+	    
+	    
+	    //Enter MobileNumber
+	    driver.findElement(By.id("u_0_r")).sendKeys("0734505611");
+	    
+	    
+	    //Enter NewPassWord
+	    driver.findElement(By.id("password_step_input")).sendKeys("P@ssw0rd");
+	   
+	   //Selecting a dropDown and date
+	    
+	    Select sell=new Select(driver.findElement(By.id("day")));
+	    
+	    sell.selectByIndex(3);
+	    
+	    
+	    //Select Month 
+	    
+	    Select sell1=new Select (driver.findElement(By.id("month")));
+	    sell1.selectByIndex(5);
+	    
+	    //Selecting the YearDropdown
+	   Select Sell2 = new Select(driver.findElement(By.id("year")));
+	    Sell2.selectByVisibleText("1990");
+	    
+	    //Clicking the Radio Button 
+	    
+	  WebElement radioButton =  driver.findElement(By.id("u_0_7"));
+	  radioButton.click();
+	  
+	  //Clicking the Signup Button
+	  
+	  driver.findElement(By.id("u_0_12")).click();
+	  
+	  //Navigate to the previous Page
+	  
+	  driver.navigate().back();
+	  
+	  //Refresh Page
+	  
+	  driver.navigate().refresh();
+	  
+	  //Close the Browser
+	  
+	   
+	   //Select sell = new select()
+	   
+	
+	}
+
+}

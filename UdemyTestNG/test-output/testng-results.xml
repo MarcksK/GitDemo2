@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="134" started-at="2020-08-13T23:04:12 CAT" finished-at="2020-08-13T23:04:13 CAT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="134" started-at="2020-08-13T23:04:12 CAT" finished-at="2020-08-13T23:04:13 CAT">
+      <class name="Test.TestOne">
+        <test-method status="PASS" signature="BfSuite()[pri:0, instance:Test.TestOne@2758fe70]" name="BfSuite" is-config="true" duration-ms="11" started-at="2020-08-13T23:04:12 CAT" finished-at="2020-08-13T23:04:12 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BfSuite -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:Test.TestOne@2758fe70]" name="testOne" duration-ms="2" started-at="2020-08-13T23:04:13 CAT" finished-at="2020-08-13T23:04:13 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="lastExecution()[pri:0, instance:Test.TestOne@2758fe70]" name="lastExecution" is-config="true" duration-ms="1" started-at="2020-08-13T23:04:13 CAT" finished-at="2020-08-13T23:04:13 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastExecution -->
+      </class> <!-- Test.TestOne -->
+      <class name="Test.Test4">
+        <test-method status="PASS" signature="charlos()[pri:0, instance:Test.Test4@578486a3]" name="charlos" duration-ms="5" started-at="2020-08-13T23:04:13 CAT" finished-at="2020-08-13T23:04:13 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- charlos -->
+        <test-method status="PASS" signature="testFour()[pri:0, instance:Test.Test4@578486a3]" name="testFour" duration-ms="2" started-at="2020-08-13T23:04:13 CAT" finished-at="2020-08-13T23:04:13 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+      </class> <!-- Test.Test4 -->
+      <class name="Test.BasicsTestNG">
+        <test-method status="PASS" signature="prerequisite()[pri:0, instance:Test.BasicsTestNG@1f36e637]" name="prerequisite" is-config="true" duration-ms="0" started-at="2020-08-13T23:04:12 CAT" finished-at="2020-08-13T23:04:12 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisite -->
+        <test-method status="PASS" signature="SecondTest(java.lang.String, java.lang.String)[pri:0, instance:Test.BasicsTestNG@1f36e637]" name="SecondTest" duration-ms="12" started-at="2020-08-13T23:04:12 CAT" data-provider="getData" finished-at="2020-08-13T23:04:12 CAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+        <test-method status="PASS" signature="SecondTest(java.lang.String, java.lang.String)[pri:0, instance:Test.BasicsTestNG@1f36e637]" name="SecondTest" duration-ms="6" started-at="2020-08-13T23:04:12 CAT" data-provider="getData" finished-at="2020-08-13T23:04:12 CAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secondpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+        <test-method status="PASS" signature="SecondTest(java.lang.String, java.lang.String)[pri:0, instance:Test.BasicsTestNG@1f36e637]" name="SecondTest" duration-ms="2" started-at="2020-08-13T23:04:12 CAT" data-provider="getData" finished-at="2020-08-13T23:04:12 CAT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdsetusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thirdpassord]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:Test.BasicsTestNG@1f36e637]" name="demo" duration-ms="2" started-at="2020-08-13T23:04:13 CAT" finished-at="2020-08-13T23:04:13 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- Test.BasicsTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

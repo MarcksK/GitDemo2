@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="Rest.restRunner">
+        <methods>
+          <include name="RestTest1"/>
+        </methods>
+      </class> <!-- Rest.restRunner -->
+      <class name="Soap.testRunner">
+        <methods>
+          <include name="SoapTest"/>
+        </methods>
+      </class> <!-- Soap.testRunner -->
+      <class name="Rest.restRunner2">
+        <methods>
+          <include name="RestTest2"/>
+        </methods>
+      </class> <!-- Rest.restRunner2 -->
+      <class name="Soap.testRunner2">
+        <methods>
+          <include name="singleTest"/>
+        </methods>
+      </class> <!-- Soap.testRunner2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

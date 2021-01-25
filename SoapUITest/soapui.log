@@ -1,0 +1,30 @@
+2020-10-04 14:25:48,183 WARN  [SoapUI] Missing folder [C:\Marcks\SoapUITest\ext] for external libraries
+2020-10-04 14:25:48,334 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Marcks\soapui-settings.xml]
+2020-10-04 14:25:49,244 INFO  [Reflections] Reflections took 122 ms to scan 2 urls, producing 75 keys and 160 values 
+2020-10-04 14:25:49,311 INFO  [Reflections] Reflections took 38 ms to scan 1 urls, producing 46 keys and 344 values 
+2020-10-04 14:25:49,340 INFO  [Reflections] Reflections took 15 ms to scan 1 urls, producing 11 keys and 17 values 
+2020-10-04 14:25:49,370 INFO  [Reflections] Reflections took 9 ms to scan 1 urls, producing 13 keys and 21 values 
+2020-10-04 14:25:49,853 INFO  [Reflections] Reflections took 388 ms to scan 13 urls, producing 341 keys and 1458 values 
+2020-10-04 14:25:49,872 INFO  [PluginManager] Adding plugin from [C:\Users\Marcks\.soapuios\plugins\ready-mqtt-plugin-dist.jar]
+2020-10-04 14:25:49,907 INFO  [PluginManager] Adding plugin from [C:\Users\Marcks\.soapuios\plugins\soapui-swagger-plugin-2.2-dist.jar]
+2020-10-04 14:25:50,067 INFO  [Reflections] Reflections took 164 ms to scan 2 urls, producing 75 keys and 160 values 
+2020-10-04 14:25:50,757 INFO  [Reflections] Reflections took 512 ms to scan 13 urls, producing 341 keys and 1458 values 
+2020-10-04 14:25:51,499 INFO  [Reflections] Reflections took 1417 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2020-10-04 14:25:51,538 INFO  [PluginManager] Adding plugin from [C:\Users\Marcks\.soapuios\plugins\ready-uxm-plugin-os-1.0.3.jar]
+2020-10-04 14:25:51,578 INFO  [Reflections] Reflections took 23 ms to scan 1 urls, producing 46 keys and 344 values 
+2020-10-04 14:25:51,739 INFO  [Reflections] Reflections took 962 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2020-10-04 14:25:51,765 INFO  [PluginManager] Adding plugin from [C:\Users\Marcks\.soapuios\plugins\readyapi-postman-1.0.1.jar]
+2020-10-04 14:25:51,790 INFO  [Reflections] Reflections took 13 ms to scan 1 urls, producing 11 keys and 17 values 
+2020-10-04 14:25:52,338 INFO  [Reflections] Reflections took 753 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2020-10-04 14:25:52,343 INFO  [PluginManager] Adding plugin from [C:\Users\Marcks\.soapuios\plugins\readyapi-swaggerhub-plugin-1.0.jar]
+2020-10-04 14:25:52,364 INFO  [Reflections] Reflections took 7 ms to scan 1 urls, producing 13 keys and 21 values 
+2020-10-04 14:25:52,580 INFO  [Reflections] Reflections took 785 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2020-10-04 14:25:52,922 INFO  [Reflections] Reflections took 552 ms to scan 1 urls, producing 1492 keys and 5707 values 
+2020-10-04 14:25:52,933 INFO  [PluginManager] 5 plugins loaded in 3060 ms
+2020-10-04 14:25:52,933 INFO  [DefaultSoapUICore] All plugins loaded
+2020-10-04 14:25:54,342 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Marcks/Downloads/Employee.xml]
+2020-10-04 14:25:55,636 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Marcks/Downloads/Employee.xml]
+2020-10-04 14:25:56,124 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Marcks/Downloads/LibraryAPI.xml]
+2020-10-04 14:25:56,865 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Marcks/Downloads/LibraryAPI.xml]
+2020-10-04 14:25:57,594 WARN  [Tools] Could not delete temporary directory C:\Users\Marcks\AppData\Local\Temp\412288ee-c798-488f-930e-c183b2b9bca4
+2020-10-04 14:25:57,602 WARN  [Tools] Could not delete temporary directory C:\Users\Marcks\AppData\Local\Temp\a44bf1ac-733e-4ebd-aa79-5ca74f8596ba

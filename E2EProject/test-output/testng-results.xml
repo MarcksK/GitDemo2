@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36223" started-at="2020-09-18T21:58:33Z" finished-at="2020-09-18T21:59:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36223" started-at="2020-09-18T21:58:33Z" finished-at="2020-09-18T21:59:09Z">
+      <class name="Academy.HomePAge">
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePAge@51c668e3]" name="basePageNavigation" duration-ms="18409" started-at="2020-09-18T23:58:33Z" data-provider="getData" finished-at="2020-09-18T23:58:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nonresticted@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123444333]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Restricted User]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePAge@51c668e3]" name="basePageNavigation" duration-ms="16911" started-at="2020-09-18T23:58:52Z" data-provider="getData" finished-at="2020-09-18T23:59:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RestrictedUser@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[36737636]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Non Restricted user]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Academy.HomePAge@51c668e3]" name="teardown" is-config="true" duration-ms="882" started-at="2020-09-18T23:59:09Z" finished-at="2020-09-18T23:59:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.HomePAge -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,8 @@
+23:51:58.526 [main] DEBUG test.test - Setting chrome driver property
+23:54:48.037 [main] DEBUG test.test - Setting chrome driver property
+23:57:22.696 [main] DEBUG test.test - Setting chrome driver property
+23:58:56.189 [main] DEBUG test.test - Setting chrome driver property
+00:01:30.409 [main] DEBUG test.test - Setting chrome driver property
+00:01:38.266 [main] INFO  test.test - Window Maximized
+00:01:38.266 [main] DEBUG test.test - Now hitting Amazon server
+00:01:41.515 [main] INFO  test.test - Landed on amazon home page

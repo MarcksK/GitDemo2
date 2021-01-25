@@ -1,0 +1,5 @@
+package CoreJavaTraining;
+
+public interface ContinentalTraffic {
+
+}

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 87.602 s <<< FAILURE! - in TestSuite
+Academy.ValidateTitle.basePageNavigation  Time elapsed: 2.374 s  <<< FAILURE!
+java.lang.AssertionError: expected [FEAURED COURSES] but found [FEATURED COURSES]
+	at Academy.ValidateTitle.basePageNavigation(ValidateTitle.java:38)
+
+Academy.ValidateTitle.validateHeader  Time elapsed: 0.174 s  <<< FAILURE!
+java.lang.AssertionError: expected [Learn Hot tools like Selenium, Appium, JMeter, SoapUI,Database Testing and more..] but found [FEATURED COURSES]
+	at Academy.ValidateTitle.validateHeader(ValidateTitle.java:51)
+

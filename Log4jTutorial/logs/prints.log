@@ -1,0 +1,5 @@
+00:01:50.527 [main] DEBUG test.test - Getting the frames count
+00:01:50.586 [main] INFO  test.test - Frames count retreived
+00:01:50.629 [main] INFO  test.test - Successfully switched to frame
+00:01:50.629 [main] DEBUG test.test - Identifying Draggable objects
+00:01:51.156 [main] INFO  test.test - Drag and drop success
