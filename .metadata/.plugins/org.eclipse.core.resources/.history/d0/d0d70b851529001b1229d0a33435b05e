@@ -1,5 +1,0 @@
-package demopack;
-
-public interface CentralTraffic {
-
-}

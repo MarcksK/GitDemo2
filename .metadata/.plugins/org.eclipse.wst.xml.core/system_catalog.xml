@@ -26,13 +26,13 @@
   <uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200702" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/xsd/ws-securitypolicy-1.2.xsd"/>
   <uri name="http://docs.oasis-open.org/ws-sx/ws-securitypolicy/200802" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/xsd/ws-securitypolicy.xsd"/>
   <uri name="http://www.w3.org/TR/xmldsig-core/xmldsig-core-schema.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.wst.standard.schemas_1.0.800.v201901071922.jar!/xsd/xmldsig-core-schema.xsd"/>
-  <system systemId="http://maven.apache.org/maven-v4_0_0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/maven-v4_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/maven-4.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/maven-v4_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/settings-1.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/settings-v1_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/profiles-1.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/profiles-v1_0_0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/archetype-1.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/archetype-1.0.0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/archetype-catalog-1.0.0.xsd"/>
-  <system systemId="http://maven.apache.org/xsd/archetype-descriptor-1.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.0.20200514-1409.jar!/xsd/archetype-descriptor-1.0.0.xsd"/>
-  <system systemId="http://www.w3.org/2001/xml.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.xsd_2.18.0.v20200723-0820.jar!/cache/www.w3.org/2001/xml.xsd"/>
-  <uri name="http://www.w3.org/2001/XMLSchema" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.xsd_2.18.0.v20200723-0820.jar!/cache/www.w3.org/2001/XMLSchema.xsd"/>
+  <system systemId="http://www.w3.org/2001/xml.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.xsd_2.18.0.v20201230-0836.jar!/cache/www.w3.org/2001/xml.xsd"/>
+  <uri name="http://www.w3.org/2001/XMLSchema" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.xsd_2.18.0.v20201230-0836.jar!/cache/www.w3.org/2001/XMLSchema.xsd"/>
+  <system systemId="http://maven.apache.org/maven-v4_0_0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.1.20210115-0930.jar!/xsd/maven-v4_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/maven-4.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.1.20210115-0930.jar!/xsd/maven-v4_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/settings-1.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.1.20210115-0930.jar!/xsd/settings-v1_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/profiles-1.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.1.20210115-0930.jar!/xsd/profiles-v1_0_0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/archetype-1.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.1.20210115-0930.jar!/xsd/archetype-1.0.0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.1.20210115-0930.jar!/xsd/archetype-catalog-1.0.0.xsd"/>
+  <system systemId="http://maven.apache.org/xsd/archetype-descriptor-1.0.0.xsd" uri="jar:file:/C:/Users/Marcks/Downloads/eclipse/plugins/org.eclipse.m2e.model.edit_1.16.1.20210115-0930.jar!/xsd/archetype-descriptor-1.0.0.xsd"/>
 </catalog>

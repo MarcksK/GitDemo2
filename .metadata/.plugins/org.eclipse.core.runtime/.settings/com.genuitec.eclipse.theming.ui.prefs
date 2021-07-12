@@ -1,12 +1,14 @@
 applyBackground=false
-approved.defs.file.last.changed.time=1607625304000
+approved.defs.file.last.changed.time=1624986146000
 codemix.dont.show.upsell.until=1596891074320
+codetogether.announce.displayed=true
 configurationInstallLocation=/C\:/Users/Marcks/Downloads/eclipse/
+ct.reengagement.display.after=1626818400000
 eclipse.preferences.version=1
 elearning.dont.show.until=1598103116870
 iconcolormode=primary
-last.download.attempt.time=1605642686819
-lastConfiguration=1611569029033
+last.download.attempt.time=1625921220959
+lastConfiguration=1625827043432
 newinstall=false
 showWelcomeDialog=false
 workbench.theme=Dark Gray

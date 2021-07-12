@@ -28,6 +28,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="Cucumber.Automation"/>
 			<item value="Academy"/>
 			<item value="TraningTwo.ReportsEx"/>
 			<item value="qaclickacademyTraningTwo"/>
@@ -37,12 +38,14 @@
 			<item value="qaclickacademy"/>
 		</list>
 		<list key="groupId">
+			<item value="Cucumber"/>
 			<item value="Academy"/>
 			<item value="TraningTwo"/>
 			<item value="qaclickacademyTraningTwo"/>
 			<item value="qaclickacademy"/>
 		</list>
 		<list key="artifactId">
+			<item value="Automation"/>
 			<item value="E2EProject"/>
 			<item value="E2EProject2"/>
 			<item value="ReportsEx"/>
@@ -84,9 +87,23 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="667"/>
+		<item key="x" value="720"/>
+		<item key="y" value="71"/>
 	</section>
 </section>

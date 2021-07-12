@@ -15,7 +15,7 @@ public class loop2demo {
 				k++;
 				
 			}
-			System.out.println("");
+			System.out.println("jhjhjbjbj");
 			
 		}
 
